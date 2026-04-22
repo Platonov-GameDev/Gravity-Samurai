@@ -40,3 +40,9 @@
 /assets/crawler/drone/bounce/.counts/580511__kl_falcon__spider_scuttle-bounce filter=lfs diff=lfs merge=lfs -text
 /assets/player/jump[[:space:]]and[[:space:]]dash/bounce/.counts/475137__bolkmar__fx-swoosh-light-high-pitch-bounce filter=lfs diff=lfs merge=lfs -text
 *.gdshader filter=lfs diff=lfs merge=lfs -text
+*.exe filter=lfs diff=lfs merge=lfs -text
+*.pck filter=lfs diff=lfs merge=lfs -text
+*.zip filter=lfs diff=lfs merge=lfs -text
+*.js filter=lfs diff=lfs merge=lfs -text
+*.html filter=lfs diff=lfs merge=lfs -text
+*.wasm filter=lfs diff=lfs merge=lfs -text
